@@ -1,0 +1,7 @@
+[user]
+	email = rj722@protonmail.com
+	name = RJ722
+[alias]
+	praise = blame
+	bstash = stash --keep-index -u
+	pushf = push --force-with-lease
